@@ -1,4 +1,4 @@
-[Proyecto Terminado](?)
+[Proyecto Terminado](#)
 
 # Miniproyecto Tik Tak Toe
 
